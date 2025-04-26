@@ -10,7 +10,7 @@ function App() {
         <Route path ="/admin/*" element={<AdminPage/>}/>
         <Route path ="/login" element={<LoginPage/>}/>
         <Route path ="/" element={<hi>Home</hi>}/>
-        <Route path ="/*" element={<hi>404 Not Found</hi>}/>
+        <Route path ="/*" element={<hi>404 Not Found ⁉️</hi>}/>
       </Routes>
 
     </BrowserRouter>
